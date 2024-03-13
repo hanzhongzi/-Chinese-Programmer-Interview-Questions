@@ -2,7 +2,9 @@
 [toc]
 ## 一 Mysql索引
 
+[面试题讲解视频](https://www.bilibili.com/video/BV1N24y1y7a1/?spm_id_from=333.337.search-card.all.click&vd_source=a366a521cf4514cef1089fdd01b5a390)
 
+[MySQL从菜鸟到大牛](https://www.bilibili.com/video/BV1iq4y1u7vj/?spm_id_from=333.788.recommend_more_video.0&vd_source=a366a521cf4514cef1089fdd01b5a390)
 
 ### 001 Mysql如何实现的索引机制？
 
